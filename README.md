@@ -4,6 +4,7 @@
 <p align="center">
     <img width="500" src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" >
 </p>
+
 ✅[Первый спринт](https://github.com/melskiy/IntensiveAS-backend/tree/master/1stSprint)<br>
 🟩[Второй спринт](https://github.com/melskiy/IntensiveAS-backend/tree/master/2ndSprint)<br>
 🟩[Третий спринт](https://github.com/melskiy/IntensiveAS-backend/tree/master/3rdSprint)<br>
