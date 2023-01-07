@@ -6,8 +6,8 @@
 </p>
 
 ✅[Первый спринт](https://github.com/melskiy/IntensiveAS-backend/tree/master/1stSprint)<br>
-🟩[Второй спринт](https://github.com/melskiy/IntensiveAS-backend/tree/master/2ndSprint)<br>
-🟩[Третий спринт](https://github.com/melskiy/IntensiveAS-backend/tree/master/3rdSprint)<br>
+✅[Второй спринт](https://github.com/melskiy/IntensiveAS-backend/tree/master/2ndSprint)<br>
+✅[Третий спринт](https://github.com/melskiy/IntensiveAS-backend/tree/master/3rdSprint)<br>
 🟩[Четвертый спринт](https://github.com/melskiy/IntensiveAS-backend/tree/master/4thSprint)<br>
 🟩[Пятый спринт](https://github.com/melskiy/IntensiveAS-backend/tree/master/5thSprint)<br>
 🟩[Шестой спринт](https://github.com/melskiy/IntensiveAS-backend/tree/master/6thSprint)<br>
